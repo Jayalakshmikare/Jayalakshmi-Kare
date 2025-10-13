@@ -34,4 +34,3 @@ Thanks for visiting! Feel free to reach out for collaborations or just a chat ab
 
 ---
 
-*This README is inspired by awesome GitHub profiles like those from [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats). Customize placeholders (e.g., location, email, links) with your real details for a personal touch.*
