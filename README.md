@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/204f74aa-b1de-4a88-8c4a-66beadcfa5ac" /># Hi there, I'm Jayalakshmi Kare! 👋
+# Hi there, I'm Jayalakshmi Kare! 👋
 
 A passionate software developer based in Bangalore, India.I thrive on turning ideas into innovative digital solutions using modern technologies.
 
