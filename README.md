@@ -27,7 +27,7 @@ I'm a dedicated full-stack developer with a keen interest in web development, AI
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayalakshmikare&theme=radical)
 
 ## 📫 Let's Connect!
-- 💼 **LinkedIn**: [Jayalakshmi Kare](https://www.linkedin.com/in/jayalakshmikare)
+- 💼 **LinkedIn**: [Jayalakshmi Kare](https://www.linkedin.com/in/karejaya/)
 - 📧 **Email**: [jayalakshmikare160@gmail.com](mailto:jayalakshmikare160@gmail.com)
 
 Thanks for visiting! Feel free to reach out for collaborations or just a chat about code. 🚀
