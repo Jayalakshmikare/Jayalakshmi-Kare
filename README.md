@@ -13,7 +13,7 @@ I'm a dedicated full-stack developer with a keen interest in web development, AI
 ## 🛠️ Tech Stack & Skills
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python, Java, JavaScript, HTML/CSS |
+| **Languages** | Python, Java, HTML/CSS |
 | **Databases** | SQL |
 | **Tools** | Git, GitHub, VS Code|
 
